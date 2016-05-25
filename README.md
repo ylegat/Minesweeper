@@ -18,5 +18,5 @@ The game ends when there is no more non-mined cell to uncover or the player unco
 
 * Command-line is sufficient, no fancy ui needed.
 * Basically it's the good old windows minesweeper (minus flags).
-* If you can, try solving this exercise using TDD (keep your commit history to proove you did it !) and Java 8 lambda.
 * Focus on readability and simplicity.
+* Tests are mandatory.
